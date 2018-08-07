@@ -1,4 +1,5 @@
-def issue31(mensaje):
+def issue31(mensaje): 
+	'''Funcion que imprime el mensaje del usuario '''
 	print(mensaje)
 	return
 	
